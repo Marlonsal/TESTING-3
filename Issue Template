@@ -1,0 +1,18 @@
+---Problem Description---
+A short description of what the problem/bug is and what the solution is.
+
+---Test Plan---
+If this issue is a bug, a user would enter a list of steps to recreate the bug.
+
+---Expected Behavior---
+A brief description of what is "supposed" to happen.
+
+
+---Actual Behavior---
+A brief description of what is actually happening.
+
+
+---Environment---
+Specify which environment this will be tested in.
+
+
